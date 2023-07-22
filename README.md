@@ -1,6 +1,4 @@
-Google_Cybersecurity_Portfolio:
-
--) Summary of the portfolio:
+Summary of Google_Cybersecurity_Portfolio:
   
     This portfolio includes hands on activities, labs and projects of the diffrent fictional organizations that are performed by Security Analyst in a work enviournment 
     In this portfolio following are the key skills that I leaned and used.
