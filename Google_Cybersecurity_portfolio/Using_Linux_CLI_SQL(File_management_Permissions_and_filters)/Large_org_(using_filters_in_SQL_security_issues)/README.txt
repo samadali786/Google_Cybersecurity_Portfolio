@@ -1,0 +1,1 @@
+In this part of my portfolio as a Security Analyst of a Large organization I have to examine the employee's and login_attempts tables and to use SQL filters to investigate the security incident files related to this portfolio is in this folder

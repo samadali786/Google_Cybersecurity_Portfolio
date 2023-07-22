@@ -1,0 +1,1 @@
+In this part of the portfolio, as a security analyst of the Sneaker enthusasitic and collectors mobile app I have to identify the security requiments for the app using seven steps of the PASTA framework, files that I used in this portfolio is inside this folder.

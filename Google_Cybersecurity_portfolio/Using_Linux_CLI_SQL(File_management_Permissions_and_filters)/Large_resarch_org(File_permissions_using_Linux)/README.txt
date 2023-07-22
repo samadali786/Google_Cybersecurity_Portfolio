@@ -1,0 +1,2 @@
+In this part of my portfolio as a Security Analyst of a large organization I work with the research team and my task is to 
+check the users on the rearch team are authorized with the appropriate permissions which was set by the organization, if the authorization is not match I have to change it with the appropriate permissions files in this folder shows how I check the current file permissions with the permissions set by the organization and to give the right permissions.  

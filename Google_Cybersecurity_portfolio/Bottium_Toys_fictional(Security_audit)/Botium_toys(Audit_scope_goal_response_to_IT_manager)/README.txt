@@ -1,0 +1,1 @@
+-) In this step of my portfolio I defines Audit Scope and Goals of the Botium toys fictional company and addresed the keyfindings to the stakeholder(IT manager) of the company inside stakeholder memorandom
